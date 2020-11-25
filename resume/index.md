@@ -4,11 +4,12 @@ title: My resume
 ---
 # Emmanuel Ballerini
 # Senior Software Engineer
-Experienced information technology professional specializing in development of large-scale applications. Loves building exciting and innovative products that bring simple and reliable user experience.
+Experienced information technology professional specializing in development of large-scale applications.  
+Loves building exciting and innovative products and services that bring simple, reliable and enjoyable user experience.
 
 ## Experience
-### Wave Financial Inc. - Toronto, ON
-#### March 2017 - present (3 years 9 months)
+### ![WaveHQ](../images/wave.jpeg) Wave Financial Inc. - Toronto, ON
+#### March 2017 - present (3 years 9+ months)
 Core member of the Invoicing team, responsible for the Invoicing and Recurring Invoicing product.
 Main contributions involved:
 * Rebuilding and migration of the Recurring Invoicing product
@@ -28,4 +29,6 @@ My responsibilities included:
 * Designed and implemented two microservices with a focus on fault tolerance and resilience.
 * Led several refactoring efforts resulting in faster application start time.
 * Provided mentorship to junior team members to improve quality of their code through code reviews, unit testing and implementation of best practices.
+
+
 Work in progress...
