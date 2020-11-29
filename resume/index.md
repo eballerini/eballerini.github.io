@@ -9,7 +9,7 @@ Loves building exciting and innovative products and services that bring simple, 
 
 ## Experience
 ### ![WaveHQ](../images/wave.jpeg) Wave Financial Inc. - Toronto, ON
-#### March 2017 - present (3 years 9+ months)
+#### March 2017 - present
 Core member of the Invoicing team, responsible for the Invoicing and Recurring Invoicing product.
 Main contributions involved:
 * Rebuilding and migration of the Recurring Invoicing product
@@ -23,7 +23,7 @@ Creator and leader of the Resilience And Fault Tolerance working group (RAFT). M
 * Created a Jenkins job to run Django management command to improve visibility and auditability
 * Led (with principal engineer and 2 customer experience specialists) the setup of Wave’s status page to provide better public facing status
 
-### The Jonah Group - Toronto, ON
+### ![Jonah](../images/jonah.png) The Jonah Group - Toronto, ON
 #### June 2015 - March 2017 (1 year 10 months)
 My responsibilities included:
 * Designed and implemented two microservices with a focus on fault tolerance and resilience.
