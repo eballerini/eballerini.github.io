@@ -20,7 +20,7 @@ Creator and leader of the Resilience And Fault Tolerance working group (RAFT). M
 * Added support for backup email provider,
 * Ran game day for email provider switch, which was used during an incident in order to maintain email delivery
 * Added automated check (as a probot app) on Github PRs for database migration detection to prevent schema migration related incidents
-* Created a Jenkins job to run Django app management command to improve visibility and auditability
+* Created a Jenkins job to run Django management command to improve visibility and auditability
 * Led (with principal engineer and 2 customer experience specialists) the setup of Wave’s status page to provide better public facing status
 
 ### The Jonah Group - Toronto, ON
